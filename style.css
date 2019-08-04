@@ -1,0 +1,17 @@
+.header {
+    background-color: rgb(134, 16, 16);
+    text-align: center;
+    padding: 20px;
+}
+.container { 
+    width: 20px;
+    height: 40px;
+    opacity: 0.4;
+    position: absolute;
+    border-block-end-color: aqua;
+    z-index: -1;
+}
+body {
+    background-color: rgba(248, 248, 11, 0.932);
+    
+}
